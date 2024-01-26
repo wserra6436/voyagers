@@ -1,0 +1,16 @@
+.banner {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#home {
+    width: 900px;
+    margin-bottom: 50px;
+}
+
+#giant {
+    font-size: 70px;
+    color: red;
+}
+
